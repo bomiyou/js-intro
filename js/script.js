@@ -60,6 +60,8 @@ function squareNumber(num) {
 }
 
 squareNumber(3);
+let ele = document.querySelector('.ex6')
+
 
 //EXERCISE 2
 
