@@ -1,9 +1,12 @@
 # js-intro
 
 about the OUTPUT--
+
 I've fllowed your lesson,googled and watched youtube.But i couldnt do it. somehow it is not working.
 
-I did create <ol> and <li class = ex1> in html first,
+I did create 
+<ol> and <li class = ex1> in html first,
+
 and typed let ele = document.querySelector(.'ex1')
           ele.textContent = ------- in java.
           
